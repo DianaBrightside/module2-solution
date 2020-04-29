@@ -44,8 +44,8 @@ section{
         margin: 10px 15px;
     }
     body section:last-child{
-        width: 95%;
-        margin: 0 10px;
+        width: 90%;
+        margin: 0 30px;
     }
 }
 @media (max-width: 767px){
